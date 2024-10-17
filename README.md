@@ -3,3 +3,4 @@ visualization carried out on the increasing price of transportation in Canada in
 
 ![Alt text]([URL_of_your_image](https://github.com/Olubayodejoy/VISUALIZATION-OF-INCREASE-IN-COST-OF-TRANSPORTATION-IN-CANADA-2023/blob/main/picture3.PNG?raw=true
 ))
+![Transportation Price Increases](https://github.com/Olubayodejoy/VISUALIZATION-OF-INCREASE-IN-COST-OF-TRANSPORTATION-IN-CANADA-2023/blob/main/picture3.PNG?raw=true)
